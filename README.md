@@ -2,6 +2,8 @@
 This repository contains the code and resources for generating customer interaction reports using ChatGPT 3.5. 
 The reports include ratings based on communication skills, problem-solving abilities, emotional intelligence, 
 and overall product performance, along with visual representations in the form of bar charts.
+
+
 Features:
 Customer Interaction: Engage in conversation with customers to address queries and provide assistance.
 Domain-specific Responses: Tailored responses for different domains including banking, IT helpdesk, customer service, bookings and travel, and emergency response.
